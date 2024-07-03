@@ -1,0 +1,73 @@
+{
+  "Navigation": {
+    "Navbar": {
+      "help": "Yordam va ma'lumot",
+      "connect": "Biz bilan bog'laning",
+      "placeholder": "Siz nimani izlayapsiz"
+    },
+    "Footer": {
+      "title": "Yordam va ma'lumot"
+    }
+  },
+  "Feature": {
+    "heading": "Biz sizga nimalarni taklif qilamiz?",
+    "learn": "Batafsil ma'lumot",
+    "blocks": {
+      "shoot": {
+        "title": "Kompaniyamiz haqida",
+        "description": "Faberlic kompaniyasi bu kosmetika, kiyim-kechak, aksessuarlar va boshqa toifadagi tovarlarni ishlab chiqaruvchi xalqaro savdo kompaniyasi. U 1997-yilda tashkil etilgan va 2001-yildan buyon shu nom bilan faoliyat yuritib kelmoqda."
+      },
+      "catalyzer": {
+        "title": "Dunyo miqyosidagi o'rni",
+        "description": "Faberlic kompaniyasi hozirda dunyoda 1-o'rinni egallagan erkaklar va ayollar uchun samarali sinalgan mahsulotlar olami. Hozirda kompaniyamiz 50dan ortiq davlatlarning millionlab insonlari ishonchini qozongan."
+      },
+      "neptune": {
+        "title": "Ro'yxatdan muammosiz o'tish",
+        "description": "Birinchi navbatda websaytda registratsiya tugmasi bosiladi. So'ng, Mijozning Ism-sharifi va elektron pochta tizimi kiritiladi va ikkita parol kiritiladi. Qisqa muddatdan so'ng e-mail pochtangizga tasdiqlash kodi keladi."
+      }
+    }
+  },
+
+  "Login": {
+    "title": "Tizimga kirish",
+    "placeholder": "Parol",
+    "have": "Hisobingiz yo'qmi?",
+    "bascket": "Savatga qaytish",
+    "active": "Ro'yxatdan o'tgansiz"
+  },
+  "Register": {
+    "title": "Ro'yxatdan o'tish",
+    "placeholders": {
+      "first_name": "Ism",
+      "last_name": "Familiya",
+      "email": "Email",
+      "password": "Parol",
+      "password2": "Parolni yana kiriting"
+    },
+    "btn": "Ro'yxatdan o'tish",
+    "have": "Hisobingiz bormi?"
+  },
+  "Verify": {
+    "title": "Verify Email",
+    "placeholder": "OTP Parol"
+  },
+  "IndexPage": {
+    "new-products": "Eng yangi maxsulotlar"
+  },
+  "gender": {
+    "men": "Erkaklar",
+    "women": "Ayollar",
+    "all": "Barchasi",
+    "product": "Mahsulotlar"
+  },
+  "Toasts": {
+    "err": "Iltimos, telefon raqamingizni kiriting.",
+    "haveErr": "Xatolik bor.",
+    "error": "Tizimga kirishda xatolik yuz berdi. Hisob ma'lumotlaringizni tekshiring.",
+    "passwordError": "Parol ikkalasi ham bir xil emas.",
+    "otp": "OTP paroli elektron pochta orqali yuborildi.",
+    "success": "Ariza topshirildi.",
+    "succCart": "Maxsulotingiz qo'shildi.",
+    "succLogin": "Muvaffaqqiyatli kirish"
+  }
+}

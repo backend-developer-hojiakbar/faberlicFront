@@ -1,0 +1,72 @@
+{
+  "Navigation": {
+    "Navbar": {
+      "help": "Help & Information",
+      "connect": "Connect with us",
+      "placeholder": "What are you looking for"
+    },
+    "Footer": {
+      "title": "Help & Information"
+    }
+  },
+  "Feature": {
+    "heading": "What do we offer you?",
+    "learn": "Learn More",
+    "blocks": {
+      "shoot": {
+        "title": "About our company",
+        "description": "Faberlic is an international trading company that manufactures cosmetics, clothing, accessories and other product categories. It was founded in 1997 and has been operating under this name since 2001."
+      },
+      "catalyzer": {
+        "title": "A role on a global scale.",
+        "description": "Faberlic currently ranks 1st in the world in terms of product quality for both men and women. Currently, our company has gained the trust of millions of people from more than 50 countries."
+      },
+      "neptune": {
+        "title": "Register without any problems",
+        "description": "The first thing to do is to click the registration button on the website. Then the client's name and email system are entered, and two passwords are entered. A confirmation code will be sent to your email in a short time."
+      }
+    }
+  },
+  "Login": {
+    "title": "Login",
+    "placeholder": "Password",
+    "have": "Don't have an account?",
+    "bascket": "Back to cart",
+    "active": "You are registered"
+  },
+  "Register": {
+    "title": "Register",
+    "placeholders": {
+      "first_name": "First Name",
+      "last_name": "Last Name",
+      "email": "Email",
+      "password": "Password",
+      "password2": "Enter the password again"
+    },
+    "btn": "Register",
+    "have": "Already have an account?"
+  },
+  "Verify": {
+    "title": "Verify Email",
+    "placeholder": "OTP Password"
+  },
+  "IndexPage": {
+    "new-products": "The newest products"
+  },
+  "gender": {
+    "men": "Men",
+    "women": "Women",
+    "all": "All",
+    "product": "Products"
+  },
+  "Toasts": {
+    "err": "Please enter your phone number.",
+    "haveErr": "There is an error.",
+    "error": "Login failed. Please check your credentials.",
+    "passwordError": "The password is not the same for both.",
+    "otp": "OTP password has been sent by email.",
+    "success": "The application has been submitted.",
+    "succCart": "Your product has been added.",
+    "succLogin": "Login successful."
+  }
+}

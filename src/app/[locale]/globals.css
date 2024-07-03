@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.navigation-scroll::-webkit-scrollbar {
+  width: 0px; /* ширина scrollbar */
+  height: 0px;
+}
+.navigation-scroll::-webkit-scrollbar-track {
+  background: transparent; /* цвет дорожки */
+}
+.navigation-scroll::-webkit-scrollbar-thumb {
+  background-color: transparent; /* цвет плашки */
+  /* закругления плашки */
+  /* border: 3px solid transparent; padding вокруг плашки */
+}
